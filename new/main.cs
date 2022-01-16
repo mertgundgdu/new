@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace newproject
 {
 
-    class main
+   public class main
     {
         public void DrawBoard()
         {
