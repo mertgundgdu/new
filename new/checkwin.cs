@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace newproject
 {
-    class checkwin
+   public class checkwin
 
     {
         static string[] f = new string[10] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" };
