@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace newproject
 {
-    class Board
+   public class Board
     {
         public string[] f = new string[10] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" };
         public void DrawBoard()
